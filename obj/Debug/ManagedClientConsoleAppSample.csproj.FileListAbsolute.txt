@@ -1,0 +1,485 @@
+D:\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ManagedClientConsoleAppSample.exe.config
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ManagedClientConsoleAppSample.exe.config
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ManagedClientConsoleAppSample.exe
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ManagedClientConsoleAppSample.pdb
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.ServiceBus.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.TeamFoundation.Common.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Newtonsoft.Json.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\System.Net.Http.Formatting.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.ServiceBus.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.TeamFoundation.Common.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\Newtonsoft.Json.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\System.Net.Http.Formatting.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\obj\Debug\ManagedClientConsoleAppSample.csprojResolveAssemblyReference.cache
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\obj\Debug\ManagedClientConsoleAppSample.exe
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample\obj\Debug\ManagedClientConsoleAppSample.pdb
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ManagedClientConsoleAppSample.exe.config
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\obj\Debug\ManagedClientConsoleAppSample.exe
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\obj\Debug\ManagedClientConsoleAppSample.pdb
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ManagedClientConsoleAppSample.exe
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ManagedClientConsoleAppSample.pdb
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.ServiceBus.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.TeamFoundation.Common.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Newtonsoft.Json.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\System.Net.Http.Formatting.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.ServiceBus.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.TeamFoundation.Common.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\Newtonsoft.Json.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\System.Net.Http.Formatting.xml
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\D-DRIVE\tej softs\vsts-auth-samples-master\vsts-auth-samples-master\ManagedClientConsoleAppSample - Copy\obj\Debug\ManagedClientConsoleAppSample.csprojResolveAssemblyReference.cache
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ManagedClientConsoleAppSample.exe.config
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\obj\Debug\ManagedClientConsoleAppSample.exe
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\obj\Debug\ManagedClientConsoleAppSample.pdb
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ManagedClientConsoleAppSample.exe
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ManagedClientConsoleAppSample.pdb
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.xml
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\ManagedClientConsoleAppSample\obj\Debug\ManagedClientConsoleAppSample.csprojResolveAssemblyReference.cache
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ManagedClientConsoleAppSample.exe.config
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\obj\Debug\ManagedClientConsoleAppSample.exe
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\obj\Debug\ManagedClientConsoleAppSample.pdb
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ManagedClientConsoleAppSample.exe
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ManagedClientConsoleAppSample.pdb
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.xml
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\REST API to Data Base\obj\Debug\ManagedClientConsoleAppSample.csprojResolveAssemblyReference.cache
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ManagedClientConsoleAppSample.exe.config
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ManagedClientConsoleAppSample.exe
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ManagedClientConsoleAppSample.pdb
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.xml
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\obj\Debug\ManagedClientConsoleAppSample.csprojResolveAssemblyReference.cache
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\obj\Debug\ManagedClientConsoleAppSample.exe
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\obj\Debug\ManagedClientConsoleAppSample.pdb
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ManagedClientConsoleAppSample.exe.manifest
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\bin\Debug\ManagedClientConsoleAppSample.application
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\obj\Debug\ManagedClientConsoleAppSample.exe.manifest
+C:\Users\t.s.z4ni\Desktop\new work for TFS to get work items\obj\Debug\ManagedClientConsoleAppSample.application
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ManagedClientConsoleAppSample.exe.config
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ManagedClientConsoleAppSample.exe.manifest
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ManagedClientConsoleAppSample.application
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ManagedClientConsoleAppSample.exe
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ManagedClientConsoleAppSample.pdb
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.ServiceBus.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.TeamFoundation.Common.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Newtonsoft.Json.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\System.Net.Http.Formatting.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.ServiceBus.xml
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.TeamFoundation.Common.xml
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.VisualStudio.Services.Client.Interactive.xml
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\Newtonsoft.Json.xml
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\System.Net.Http.Formatting.xml
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+E:\Tej\RestToSQLdb\new work for TFS to get work items\obj\Debug\ManagedClientConsoleAppSample.csprojResolveAssemblyReference.cache
+E:\Tej\RestToSQLdb\new work for TFS to get work items\obj\Debug\ManagedClientConsoleAppSample.exe.manifest
+E:\Tej\RestToSQLdb\new work for TFS to get work items\obj\Debug\ManagedClientConsoleAppSample.application
+E:\Tej\RestToSQLdb\new work for TFS to get work items\obj\Debug\ManagedClientConsoleAppSample.exe
+E:\Tej\RestToSQLdb\new work for TFS to get work items\obj\Debug\ManagedClientConsoleAppSample.pdb
